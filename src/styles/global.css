@@ -1,7 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@1,300&display=swap');
 @import "tailwindcss";
 @import "animate.css";
 
 :root {
   --animate-duration: 2500ms;
   --animate-delay: 1s;
+}
+
+@theme {
+  --font-cursive: "Roboto Mono", monospace;
 }
