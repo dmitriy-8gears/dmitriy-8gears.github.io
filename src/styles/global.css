@@ -1,1 +1,7 @@
 @import "tailwindcss";
+@import "animate.css";
+
+:root {
+  --animate-duration: 2500ms;
+  --animate-delay: 1s;
+}
